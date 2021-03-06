@@ -1,0 +1,5 @@
+GET http://localhost:8088/api/service/
+###
+GET http://localhost:8088/api/service/kemoko
+###
+POST http://localhost:8088/api/auth/login?login=kemoko&password=kemoko
